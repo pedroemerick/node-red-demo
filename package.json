@@ -6,7 +6,8 @@
     "keywords": ["node-red"],
     "node-red" : {
         "nodes": {
-            "hello-world": "hello-world-node/hello-world.js"
+            "hello-world": "hello-world-node/hello-world.js",
+            "send-name": "send-name-node/send-name.js"
         }
     }
 }
